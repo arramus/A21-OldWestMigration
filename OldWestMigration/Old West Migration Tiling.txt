@@ -49,6 +49,7 @@ CUSTOM QUEST AND DECO POIS (A-Z)
 oldwest_apper_01 (T3 C+F)
 oldwest_bony_xpress_01 (T3 C+F+RP)
 oldwest_bubbles_01 (T3 C+F+RP)
+oldwest_bucksden_01 (T2 C+F+RP)
 oldwest_craterfield_01 (T2 C+F)
 oldwest_dukepatrol_01 (T3 C+F+RP)
 oldwest_dukepower_01 (T2 C+F+RP)
@@ -63,7 +64,7 @@ oldwest_woodpecker_01 (T3 C+F)
 
 ==================================
 Quest Tier 1 - 6 x Clear - 10 x Clear + Fetch = 16
-Quest Tier 2 - 6 x Clear + Fetch - 3 x Clear + Fetch + Restore Power = 9
+Quest Tier 2 - 6 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 10
 Quest Tier 3 - 2 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 6
 
 
