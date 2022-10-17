@@ -66,6 +66,17 @@ oldwest_woodpecker_01 (T3 C+F)
 Quest Tier 1 - 6 x Clear - 10 x Clear + Fetch = 16
 Quest Tier 2 - 6 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 10
 Quest Tier 3 - 2 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 6
+==================================
+
+OLD WEST MIGRATION BIOME EXPANSION DECO POIs
+
+Desert Biome
+deco_desertsmallcamp_01
+deco_desertsmallcamp_02
+
+Forest Biome
+deco_forestsmallcamp_01
+deco_forestsmallcamp_02
 
 
 
