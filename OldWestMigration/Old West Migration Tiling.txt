@@ -10,14 +10,14 @@ rwg_tile_oldwest_t (25 x 25 = 7 / 25 x 50 = 2 / 42 x 42 = 1)
 CUSTOM TILES
 rwg_tile_oldwest_corner_02 (25 x 25 = 6 / 25 x 50 = 2)
 
-DEFAULT TFP QUEST AND DECO POIS (A-Z)
+DEFAULT TFP QUEST AND DECO POIS + CONVERSIONS (A-Z)
 oldwest_business_01 (T1 C)
 oldwest_business_02 (T1 C)
 oldwest_business_03 (T1 C)
 oldwest_business_04 (T1 C)
 oldwest_business_05 (Deco)
 oldwest_business_06 (T1 C)
-oldwest_business_07 (Deco)
+oldwest_business_07 (Deco) - CONVERSION - (T1 C+F)
 oldwest_business_08 (T1 C+F)
 oldwest_business_09 (Deco)
 oldwest_business_10 (T1 C+F)
@@ -28,7 +28,7 @@ oldwest_business_14 (T1 C+F)
 oldwest_church (T1 C+F)
 oldwest_coal_factory (T1 C+F) 
 oldwest_gallows (Deco)
-oldwest_jail (Deco)
+oldwest_jail (Deco) - CONVERSION - (T1 C+F)
 oldwest_stables (Deco)
 oldwest_strip_01 (T2 C+F)
 oldwest_strip_02 (T2 C+F)
@@ -56,6 +56,7 @@ oldwest_dukepower_01 (T2 C+F+RP)
 oldwest_gfv_01 (T2 C+F)
 oldwest_gold_01 (T2 C+F+RP)
 oldwest_gunshop_01 (T2 C+F)
+oldwest_lyttletrippers_01 (T3 C+F+RP)
 oldwest_meatloaf_01 (T2 C+F+RP)
 oldwest_schoolfix_01 (T3 C+F+RP)
 oldwest_stables_01 (T1 C+F)
@@ -63,9 +64,9 @@ oldwest_sweeney_01 (T2 C+F)
 oldwest_woodpecker_01 (T3 C+F)
 
 ==================================
-Quest Tier 1 - 6 x Clear - 10 x Clear + Fetch = 16
+Quest Tier 1 - 6 x Clear - 12 x Clear + Fetch = 18
 Quest Tier 2 - 6 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 10
-Quest Tier 3 - 2 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 6
+Quest Tier 3 - 2 x Clear + Fetch - 5 x Clear + Fetch + Restore Power = 7
 ==================================
 
 OLD WEST MIGRATION BIOME EXPANSION DECO POIs
