@@ -19,7 +19,7 @@ oldwest_business_05 (Deco)
 oldwest_business_06 (T1 C)
 oldwest_business_07 (Deco) - CONVERSION - (T1 C+F)
 oldwest_business_08 (T1 C+F)
-oldwest_business_09 (Deco)
+oldwest_business_09 (Deco) - CONVERSION - (T1 C+F)
 oldwest_business_10 (T1 C+F)
 oldwest_business_11 (T1 C+F)
 oldwest_business_12 (T1 C)
@@ -29,7 +29,7 @@ oldwest_church (T1 C+F)
 oldwest_coal_factory (T1 C+F) 
 oldwest_gallows (Deco)
 oldwest_jail (Deco) - CONVERSION - (T1 C+F)
-oldwest_stables (Deco)
+oldwest_stables (Deco) - CONVERSION - (T1 C+F)
 oldwest_strip_01 (T2 C+F)
 oldwest_strip_02 (T2 C+F)
 oldwest_strip_03 (T1 C+F)
@@ -38,12 +38,12 @@ oldwest_watertower (Deco)
 remnant_oldwest_01 (Deco)
 remnant_oldwest_02 (Deco)
 remnant_oldwest_03 (Deco)
-remnant_oldwest_04 (Deco)
+remnant_oldwest_04 (Deco) - CONVERSION - (T1 C+F)
 remnant_oldwest_05 (Deco)
 remnant_oldwest_06 (Deco)
-remnant_oldwest_07 (Deco)
+remnant_oldwest_07 (Deco) - CONVERSION - (T1 C+F)
 remnant_oldwest_08 (Deco)
-remnant_oldwest_09 (Deco)
+remnant_oldwest_09 (Deco) - CONVERSION - (T1 C+F)
 
 CUSTOM QUEST AND DECO POIS (A-Z)
 oldwest_apper_01 (T3 C+F)
@@ -64,7 +64,7 @@ oldwest_sweeney_01 (T2 C+F)
 oldwest_woodpecker_01 (T3 C+F)
 
 ==================================
-Quest Tier 1 - 6 x Clear - 12 x Clear + Fetch = 18
+Quest Tier 1 - 6 x Clear - 17 x Clear + Fetch = 23
 Quest Tier 2 - 6 x Clear + Fetch - 4 x Clear + Fetch + Restore Power = 10
 Quest Tier 3 - 2 x Clear + Fetch - 5 x Clear + Fetch + Restore Power = 7
 ==================================
