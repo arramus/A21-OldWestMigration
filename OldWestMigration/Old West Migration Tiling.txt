@@ -9,6 +9,7 @@ rwg_tile_oldwest_t (25 x 25 = 7 / 25 x 50 = 2 / 42 x 42 = 1)
 
 CUSTOM TILES
 rwg_tile_oldwest_corner_02 (25 x 25 = 6 / 25 x 50 = 2)
+rwg_tile_oldwest_straight_02 (25 x 25 = 4 / 25 x 50 = 2 / 42 x 42 = 1)
 
 DEFAULT TFP QUEST AND DECO POIS + CONVERSIONS (A-Z)
 oldwest_business_01 (T1 C)
