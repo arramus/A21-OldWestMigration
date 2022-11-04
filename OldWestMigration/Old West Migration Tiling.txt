@@ -59,17 +59,19 @@ oldwest_gfv_01 (T2 C+F)
 oldwest_gold_01 (T2 C+F+RP)
 oldwest_gunshop_01 (T2 C+F)
 oldwest_lyttletrippers_01 (T3 C+F+RP)
+oldwest_market_01 (T2 C+F+RP) 
 oldwest_meatloaf_01 (T2 C+F+RP)
 oldwest_mine_01 (T3 C+F+RP)
 oldwest_ministrip_01 (T2 C+F+RP)
 oldwest_schoolfix_01 (T3 C+F+RP)
 oldwest_stables_01 (T1 C+F)
+oldwest_stables_02 (T1 C+F)
 oldwest_sweeney_01 (T2 C+F)
 oldwest_woodpecker_01 (T3 C+F)
 
 ==================================
 Quest Tier 1 - 6 x Clear - 17 x Clear + Fetch = 23
-Quest Tier 2 - 7 x Clear + Fetch - 5 x Clear + Fetch + Restore Power = 12
+Quest Tier 2 - 8 x Clear + Fetch - 6 x Clear + Fetch + Restore Power = 14
 Quest Tier 3 - 2 x Clear + Fetch - 6 x Clear + Fetch + Restore Power = 8
 ==================================
 
