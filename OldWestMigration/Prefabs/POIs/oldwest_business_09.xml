@@ -11,7 +11,7 @@
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="QuestTags" value="clear,fetch" />
-  <property name="Tags" value="oldwest" />  
+  <property name="Tags" value="oldwest,oldwestoutskirt" />  
   <property name="TraderArea" value="False" />
   <property name="SleeperVolumeSize" value="7, 13, 8" />
   <property name="SleeperVolumeStart" value="9, 0, 9" />

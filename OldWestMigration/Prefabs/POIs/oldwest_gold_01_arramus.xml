@@ -23,7 +23,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="Tags" value="oldwest" />
+  <property name="Tags" value="oldwest,oldwestoutskirt" />
   <property class="Stats">
     <property name="TotalVertices" value="211090" />
     <property name="TotalTriangles" value="209365" />

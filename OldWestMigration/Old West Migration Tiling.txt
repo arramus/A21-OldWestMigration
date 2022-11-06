@@ -66,13 +66,14 @@ oldwest_ministrip_01 (T2 C+F+RP)
 oldwest_schoolfix_01 (T3 C+F+RP)
 oldwest_stables_01 (T1 C+F)
 oldwest_stables_02 (T1 C+F)
+oldwest_station_01 (T3 C+F+RP)
 oldwest_sweeney_01 (T2 C+F)
 oldwest_woodpecker_01 (T3 C+F)
 
 ==================================
 Quest Tier 1 - 6 x Clear - 17 x Clear + Fetch = 23
 Quest Tier 2 - 8 x Clear + Fetch - 6 x Clear + Fetch + Restore Power = 14
-Quest Tier 3 - 2 x Clear + Fetch - 6 x Clear + Fetch + Restore Power = 8
+Quest Tier 3 - 2 x Clear + Fetch - 7 x Clear + Fetch + Restore Power = 9
 ==================================
 
 OLD WEST MIGRATION BIOME EXPANSION DECO POIs
