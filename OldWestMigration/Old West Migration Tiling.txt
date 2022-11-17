@@ -81,6 +81,9 @@ OLD WEST MIGRATION BIOME EXPANSION DECO POIs
 Desert Biome
 deco_desertsmallcamp_01
 deco_desertsmallcamp_02
+deco_desertoasis_01
+deco_desertoasis_02
+deco_desertoasis_03
 
 Forest Biome
 deco_forestsmallcamp_01
