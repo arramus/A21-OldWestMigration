@@ -1,0 +1,19 @@
+<configs>
+	
+	<append xpath="/rwgmixer/township[@name='oldwest']">
+		<property name="outskirt_district" value="oldwestoutskirt"/>
+	</append>
+	
+	<append xpath="/rwgmixer">
+	
+	<district name="oldwestoutskirt">
+		<property name="district_spawn_weight" value="0"/>
+		<property name="district_required_township" value="oldwest"/>
+		<property name="district_preview_color" value="0,0.5,0"/>
+		<property name="spawn_custom_size_prefabs" value="true"/>
+		<property name="poi_required_tags_all" value="oldwestoutskirt"/>
+	</district>
+
+	</append>	
+
+</configs>
