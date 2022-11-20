@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="OldWestMigration-Outskirt" />
+    <Description value="Adds another Old West tiling system as an outskirt around the Old West Migration Modlet for an expansive loop." />
+    <Author value="arramus" />
+    <Version value="A20" />
+    <Website value="" />
+  </ModInfo>
+</xml>

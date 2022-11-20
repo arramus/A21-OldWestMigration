@@ -11,6 +11,8 @@ CUSTOM TILES
 rwg_tile_oldwest_corner_02 (25 x 25 = 6 / 25 x 50 = 2)
 rwg_tile_oldwest_straight_02 (25 x 25 = 4 / 25 x 50 = 2 / 42 x 42 = 1)
 
+----------------------------------------------------------------------
+
 DEFAULT TFP QUEST AND DECO POIS + CONVERSIONS (A-Z)
 oldwest_business_01 (T1 C)
 oldwest_business_02 (T1 C)
@@ -90,5 +92,14 @@ Forest Biome
 deco_forestsmallcamp_01
 deco_forestsmallcamp_02
 
+----------------------------------------------------------------------
 
+OPTIONS FOLDER
 
+There are 3 options folder choices as expansions to the basic Old West tiling system.
+They all add an outskirt. An outskirt is a set of tiles that surround the Old West tiling system.
+The current options are:
+
+1. OldWestMigration-Outskirt (Adds another Old West around the Old West)
+2. OldWestMigration-RailtrackOutskirt (Adds another Old West around the Old West but this one has a rail track)
+3. OldWestMigration-RuralOutskirt (Adds the TFP rural tiling system around the Old West for a farming suburb)
