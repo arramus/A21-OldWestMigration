@@ -50,6 +50,7 @@ remnant_oldwest_09 (Deco) - CONVERSION - (T1 C+F)
 
 CUSTOM QUEST AND DECO POIS (A-Z)
 oldwest_apper_01 (T3 C+F)
+oldwest_bank_01 (T3 C+F+RP)
 oldwest_bony_xpress_01 (T3 C+F+RP)
 oldwest_bricabrac_01 (T2 C+F)
 oldwest_bubbles_01 (T3 C+F+RP)
@@ -76,7 +77,7 @@ oldwest_woodpecker_01 (T3 C+F)
 ==================================
 Quest Tier 1 - 6 x Clear - 18 x Clear + Fetch = 24
 Quest Tier 2 - 8 x Clear + Fetch - 6 x Clear + Fetch + Restore Power = 14
-Quest Tier 3 - 2 x Clear + Fetch - 7 x Clear + Fetch + Restore Power = 9
+Quest Tier 3 - 2 x Clear + Fetch - 8 x Clear + Fetch + Restore Power = 10
 ==================================
 
 OLD WEST MIGRATION BIOME EXPANSION DECO POIs
