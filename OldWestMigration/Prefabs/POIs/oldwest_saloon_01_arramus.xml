@@ -12,7 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="oldwest" />
+  <property name="Tags" value="oldwest,oldwestoutskirt" />
   <property name="QuestTags" value="clear,fetch" />
   <property name="SleeperVolumeSize" value="10, 3, 16#8, 3, 16#6, 6, 15#12, 5, 15" />
   <property name="SleeperVolumeStart" value="12, 4, 6#4, 4, 5#4, 7, 6#10, 8, 6" />
