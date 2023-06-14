@@ -1,7 +1,0 @@
-===========================================
-= OLD WEST MIGRATION = RURAL OUTSKIRT =
-===========================================
-
-This modlet adds an outskirt around the perimeter of the Old West Migration Modlet.
-The outskirt is the default TFP Rural tiling system.
-Its primary role is to expand the Old West tiling system with a circuit transport network.

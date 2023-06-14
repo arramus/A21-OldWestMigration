@@ -1,7 +1,0 @@
-===========================================
-= OLD WEST MIGRATION = RAILTRACK OUTSKIRT =
-===========================================
-
-This modlet adds an outskirt around the perimeter of the Old West Migration Modlet.
-The outskirt is the default TFP Old West tiling system with modifications.
-The primary modification is a railtrack that will complete a full loop.

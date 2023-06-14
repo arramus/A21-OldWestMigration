@@ -1,7 +1,0 @@
-<configs>
-	
-	<append xpath="/rwgmixer/township[@name='oldwest']">
-		<property name="outskirt_district" value="oldwest"/>
-	</append>	
-
-</configs>
