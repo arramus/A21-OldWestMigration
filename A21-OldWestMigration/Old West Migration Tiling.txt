@@ -48,6 +48,7 @@ remnant_oldwest_06 (Deco)
 remnant_oldwest_07 (Deco) - CONVERSION - (T1 C+F)
 remnant_oldwest_08 (Deco)
 remnant_oldwest_09 (Deco) - CONVERSION - (T1 C+F)
+trader_oldwest_bob - CONVERSION
 
 CUSTOM QUEST AND DECO POIS (A-Z)
 oldwest_apper_01 (T3 C+F)
