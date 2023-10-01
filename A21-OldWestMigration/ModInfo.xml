@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<Name value="A21-OldWestMigration" />
-	<DisplayName value="A21 Old West Migration" />
-	<Description value="Increases the size and town frequency of the Old West. Adds custom POIs and a gateway Trader." />
-	<Author value="arramus" />
-	<Version value="21.0.1.1" />
-	<Website value="https://community.7daystodie.com/topic/30000-a21-old-west-migration/" />
-</xml>
