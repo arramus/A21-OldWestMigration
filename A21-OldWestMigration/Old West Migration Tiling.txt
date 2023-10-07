@@ -55,7 +55,7 @@ remnant_oldwest_06 (Tiling Deco)
 remnant_oldwest_08 (Tiling Deco)
 trader_oldwest_bob - CONVERSION from A20 (Tiling Deco)
 
-CUSTOM OLD WEST MIGRATION POIS = 7
+CUSTOM OLD WEST MIGRATION POIS = 9
 deco_desertsmallcamp_01 (Desert Biome Deco)
 deco_desertsmallcamp_02 (Desert Biome Deco)
 deco_desertoasis_01 (Desert Biome Deco)
@@ -63,8 +63,10 @@ deco_desertoasis_02 (Desert Biome Deco)
 deco_desertoasis_03 (Desert Biome Deco)
 deco_forestsmallcamp_01 (Forest Biome Deco)
 deco_forestsmallcamp_02 (Forest Biome Deco)
+deco_snowprepper8x8_01 (Snow Biome Deco)
+deco_snowprepper8x8_02 (Snow Biome Deco)
 
-OVERALL TOTAL = 17
+OVERALL TOTAL = 19
 
 ==============================
 = QUEST TIER 1 CLEAR + FETCH =
