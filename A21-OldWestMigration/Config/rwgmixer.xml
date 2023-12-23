@@ -11,7 +11,7 @@
 	<set xpath="/rwgmixer/world[@name='small']/property[@class='oldwest']/property[@name='maxtiles']/@value">16</set>
 	<set xpath="/rwgmixer/world[@name='medium']/property[@class='oldwest']/property[@name='few']/@value">3</set>
 	<set xpath="/rwgmixer/world[@name='medium']/property[@class='oldwest']/property[@name='default']/@value">4</set>
-	<set xpath="/rwgmixer/world[@name='medium']/property[@class='oldwest']/property[@name='many']/@value">5</set>	
+	<set xpath="/rwgmixer/world[@name='medium']/property[@class='oldwest']/property[@name='many']/@value">4</set>	
 	<set xpath="/rwgmixer/world[@name='medium']/property[@class='oldwest']/property[@name='mintiles']/@value">6</set>
 	<set xpath="/rwgmixer/world[@name='medium']/property[@class='oldwest']/property[@name='maxtiles']/@value">16</set>
 	<set xpath="/rwgmixer/world[@name='large']/property[@class='oldwest']/property[@name='mintiles']/@value">6</set>
