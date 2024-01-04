@@ -120,7 +120,8 @@ OVERALL TOTAL = 13
 = QUEST TIER 2 CLEAR + FETCH =
 ==============================
 DEFAULT TFP POIS Clear + Fetch (C+F) = 1
-oldwest_cabin_11_TFP - CONVERSION (T2 C+F)						
+oldwest_cabin_11_TFP - CONVERSION (T2 C+F)
+						
 CUSTOM OLD WEST MIGRATION POIS Clear + Fetch (C+F) = 4
 oldwest_craterfield_01 (T2 C+F)
 oldwest_gfv_01 (T2 C+F)
@@ -145,7 +146,7 @@ OVERALL TOTAL = 4
 ==============================================
 = QUEST TIER 2 CLEAR + FETCH + RESTORE POWER =
 ==============================================
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power (C+F+RP) = 5
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power (C+F+RP) = 4
 oldwest_gold_01 (T2 C+F+RP)
 oldwest_market_01 (T2 C+F+RP) 
 oldwest_meatloaf_01 (T2 C+F+RP)
