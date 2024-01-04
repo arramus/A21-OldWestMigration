@@ -122,13 +122,12 @@ OVERALL TOTAL = 13
 DEFAULT TFP POIS Clear + Fetch (C+F) = 1
 oldwest_cabin_11_TFP - CONVERSION (T2 C+F)
 						
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch (C+F) = 4
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch (C+F) = 3
 oldwest_craterfield_01 (T2 C+F)
 oldwest_gfv_01 (T2 C+F)
-oldwest_saloon_01 (T2 C+F)
 oldwest_sweeney_01 (T2 C+F)
 
-OVERALL TOTAL = 5
+OVERALL TOTAL = 4
 
 =========================================
 = QUEST TIER 2 CLEAR + FETCH + INFESTED =
@@ -160,12 +159,14 @@ OVERALL TOTAL = 4
 DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 1
 oldwest_cabin_11_TFP - CONVERSION (T2 C+F+RP+I)
 
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 3
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 5
 oldwest_bucksden_01 (T2 C+F+RP+I)
-oldwest_dukepower_01 (T2 C+F+RP+I)								  
+oldwest_dukepower_01 (T2 C+F+RP+I)
+oldwest_saloon_01 (T2 C+F+RP+I)
+oldwest_specbytes_cems_01 (T2 C+F+RP+I)							  
 oldwest_tobacco_01 (T2 C+F+RP+I)
 
-OVERALL TOTAL = 4
+OVERALL TOTAL = 6
 
 ==============================
 = QUEST TIER 3 CLEAR + FETCH =
@@ -244,8 +245,8 @@ OVERALL TOTAL = 25 Base
 QUEST TIER 2 CLEAR + FETCH = 4
 QUEST TIER 2 CLEAR + FETCH + INFESTED = 4
 QUEST TIER 2 CLEAR + FETCH + RESTORE POWER = 5
-QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 3
-OVERALL TOTAL = 16 Base + Infested expansion from T1
+QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 4
+OVERALL TOTAL = 17 Base + Infested expansion from T1
 
 ================
 = QUEST TIER 3 =
