@@ -171,26 +171,26 @@ OVERALL TOTAL = 8
 ==============================================
 = QUEST TIER 3 CLEAR + FETCH + RESTORE POWER =
 ==============================================
-CUSTOM OLD WEST MIGRATION POIS  Clear + Fetch + Restore Power (C+F+RP) = 2
+CUSTOM OLD WEST MIGRATION POIS  Clear + Fetch + Restore Power (C+F+RP) = 1
 oldwest_bubbles_01 (T3 C+F+RP)
-oldwest_lyttletrippers_01 (T3 C+F+RP)
 
-OVERALL TOTAL = 2
+OVERALL TOTAL = 1
 
 =========================================================
 = QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED =
 =========================================================
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 8
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 9
 oldwest_apper_01 (T3 C+F+RP+I)
 oldwest_bank_01 (T3 C+F+RP+I)
 oldwest_bony_xpress_01 (T3 C+F+RP+I)
 oldwest_dukepatrol_01 (T3 C+F+RP+I)
+oldwest_lyttletrippers_01 (T3 T3 C+F+RP+I)
 oldwest_mine_01 (T3 C+F+RP+I)
 oldwest_schoolfix_01 (T3 C+F+RP+I)
 oldwest_station_01 (T3 C+F+RP+I)
 oldwest_woodpecker_01 (T3 C+F+RP+I)
 
-OVERALL TOTAL = 8
+OVERALL TOTAL = 9
 
 =========================================================
 = QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -237,8 +237,8 @@ OVERALL TOTAL = 18 Base + Infested expansion from T1
 ================
 = QUEST TIER 3 =
 ================
-QUEST TIER 3 CLEAR + FETCH + RESTORE POWER = 2
-QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 8
+QUEST TIER 3 CLEAR + FETCH + RESTORE POWER = 1
+QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 9
 OVERALL TOTAL = 10 Base + Infested expansion from T2
 
 ================
