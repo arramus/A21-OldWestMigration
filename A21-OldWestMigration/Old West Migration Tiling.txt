@@ -119,11 +119,10 @@ OVERALL TOTAL = 13
 ==============================
 = QUEST TIER 2 CLEAR + FETCH =
 ==============================
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch (C+F) = 2
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch (C+F) = 1
 oldwest_craterfield_01 (T2 C+F)
-oldwest_gfv_01 (T2 C+F)
 
-OVERALL TOTAL = 2
+OVERALL TOTAL = 1
 
 =========================================
 = QUEST TIER 2 CLEAR + FETCH + INFESTED =
@@ -137,12 +136,11 @@ OVERALL TOTAL = 2
 ==============================================
 = QUEST TIER 2 CLEAR + FETCH + RESTORE POWER =
 ==============================================
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power (C+F+RP) = 3
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power (C+F+RP) = 2
 oldwest_gold_01 (T2 C+F+RP)
-oldwest_market_01 (T2 C+F+RP) 
 oldwest_ministrip_01 (T2 C+F+RP)
 
-OVERALL TOTAL = 3
+OVERALL TOTAL = 2
 
 =========================================================
 = QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -150,18 +148,20 @@ OVERALL TOTAL = 3
 DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 1
 oldwest_cabin_11_TFP - CONVERSION (T2 C+F+RP+I)
 
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 9
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 11
 oldwest_bricabrac_01 (T2 C+F+RP+I)
 oldwest_bucksden_01 (T2 C+F+RP+I)
 oldwest_dukepower_01 (T2 C+F+RP+I)
+oldwest_gfv_01 (T2 C+F+RP+I)
 oldwest_gunshop_01 (T2 C+F+RP+I)
+oldwest_market_01 (T2 C+F+RP+I) 
 oldwest_meatloaf_01 (T2 C+F+RP+I)
 oldwest_saloon_01 (T2 C+F+RP+I)
 oldwest_specbytes_cems_01 (T2 C+F+RP+I)
 oldwest_sweeney_01 (T2 C+F+RP+I)						  
 oldwest_tobacco_01 (T2 C+F+RP+I)
 
-OVERALL TOTAL = 10
+OVERALL TOTAL = 12
 
 =========================================================
 = QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -216,10 +216,10 @@ OVERALL TOTAL = 25 Base
 ================
 = QUEST TIER 2 =
 ================
-QUEST TIER 2 CLEAR + FETCH = 2
+QUEST TIER 2 CLEAR + FETCH = 1
 QUEST TIER 2 CLEAR + FETCH + INFESTED = 2
-QUEST TIER 2 CLEAR + FETCH + RESTORE POWER = 3
-QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 10
+QUEST TIER 2 CLEAR + FETCH + RESTORE POWER = 2
+QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 12
 OVERALL TOTAL = 17 Base + Infested expansion from T1
 
 ================
